@@ -1,2 +1,1 @@
-# simplify-admin
-Background management template based on Bootstrap
+!["Absolute"] (screenshot.png "Absolute")
