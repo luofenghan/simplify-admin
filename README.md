@@ -1,1 +1,1 @@
-!["Absolute"] (screenshot.png "Absolute")
+![Absolute] (./screenshot.png)
